@@ -5,3 +5,5 @@
 - 😄 Pronouns: She/Her
 
 I'm really into mobile games and am currently obssessed with model building kits!
+
+I made a roguelike dungeon crawler game for school, the repo can't be public but here is the link to the demo video/trailer: www.youtube.com/watch?v=cdumflnthb8
